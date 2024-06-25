@@ -1,0 +1,1 @@
+from .trans_seq import bp as trans_bp
